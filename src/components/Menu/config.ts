@@ -4,12 +4,12 @@ const config: MenuEntry[] = [
   {
     label: 'Home',
     icon: 'HomeIcon',
-    href: 'https://www.aztecswap.com/',
+    href: 'https://www.heronetworkapp.com/',
   },
   {
-    label: 'Bourbon DeFi',
+    label: 'Hero Network App',
     icon: 'HomeIcon',
-    href: 'https://www.bourbondefi.com/'
+    href: 'https://play.google.com/store/apps/details?id=com.hero.network'
   },
   {
     label: 'Trade',
@@ -26,23 +26,9 @@ const config: MenuEntry[] = [
       },
     ],
   },
+
   {
-    label: 'Farms',
-    icon: 'FarmIcon',
-    href: 'https://www.aztecswap.com/farms',
-  },
-  {
-    label: 'Pools',
-    icon: 'PoolIcon',
-    href: 'https://www.aztecswap.com/pools',
-  },
-  {
-    label: 'Moctezuma Sacrifice',
-    icon: 'TicketIcon',
-    href: '/lottery',
-  },
-  {
-    label: 'Aztec Gold Token',
+    label: 'Hero Network Token Info',
     icon: 'InfoIcon',
     items: [
       {
