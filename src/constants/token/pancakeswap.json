@@ -11,11 +11,11 @@
   "keywords": ["pancake", "default"],
   "tokens": [
     {
-      "name": "Aztec Gold token",
-      "symbol": "GOLD",
-      "address": "0x8298fea38aa8627316ffd943fe001b69cac8174d",
+      "name": "Hero Network",
+      "symbol": "HERO",
+      "address": "0xcBB53a1b4c1728972De4308B279e18EF941EdA2D",
       "chainId": 56,
-      "decimals": 18
+      "decimals": 4
     },
     {
       "name": "Koala Lyptus token",
