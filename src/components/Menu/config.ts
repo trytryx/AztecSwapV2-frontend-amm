@@ -32,16 +32,16 @@ const config: MenuEntry[] = [
     icon: 'InfoIcon',
     items: [
       {
-        label: 'Dex Guru',
-        href: 'https://dex.guru/token/0x8298fea38aa8627316ffd943fe001b69cac8174d-bsc',
+        label: 'Roadmap',
+        href: 'https://www.heronetworkapp.com/',
       },
       {
-        label: 'Contract',
-        href: 'https://bscscan.com/token/0x8298fea38aa8627316ffd943fe001b69cac8174d#readContract',
+        label: 'BSCSCAN',
+        href: 'https://bscscan.com/token/0xcBB53a1b4c1728972De4308B279e18EF941EdA2D',
       },
       {
-        label: 'AstroTools',
-        href: 'https://app.astrotools.io/pancake-pair-explorer/0xa040492a50f0034894eb6df0a4d6c8ac33b92cfd',
+        label: 'Whitepaper',
+        href: 'https://www.heronetworkapp.com/',
       },
     ],
   },
