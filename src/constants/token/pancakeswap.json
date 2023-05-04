@@ -18,6 +18,19 @@
       "decimals": 4
     },
     {
+
+      "name": "Epic Network",
+
+      "symbol": "EPIC",
+
+      "address": "0x1FF0DB198f42a0547804C35b6717c8d310803dd1",
+
+      "chainId": 56,
+
+      "decimals": 9
+
+    },
+    {
       "name": "WBNB Token",
       "symbol": "WBNB",
       "address": "0xae13d989dac2f0debff460ac112a837c89baa7cd",
