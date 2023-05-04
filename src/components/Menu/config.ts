@@ -33,7 +33,7 @@ const config: MenuEntry[] = [
     items: [
       {
         label: 'Roadmap',
-        href: 'https://www.heronetworkapp.com/',
+        href: 'https://roadmap-1.gitbook.io/heronetwork/',
       },
       {
         label: 'BSCSCAN',
