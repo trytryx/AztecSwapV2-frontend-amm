@@ -11,15 +11,13 @@ const config: MenuEntry[] = [
     icon: 'HomeIcon',
     href: 'https://play.google.com/store/apps/details?id=com.hero.network'
   },
-  {
 
-    label: 'Phnx Network App',
 
-    icon: 'HomeIcon',
 
-    href: 'https://play.google.com/store/apps/details?id=com.phoenixnetwork.networkapp'
 
-  },
+
+ 
+
   {
     label: 'Trade',
     icon: 'TradeIcon',
